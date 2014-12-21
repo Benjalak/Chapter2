@@ -10,5 +10,7 @@ package com.pamarin.chapter2;
  * @author Aom
  */
 public class PrimtiveType {
-    
+    public static void main(String[] args) {
+        
+    }
 }
