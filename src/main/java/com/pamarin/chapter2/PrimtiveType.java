@@ -11,6 +11,6 @@ package com.pamarin.chapter2;
  */
 public class PrimtiveType {
     public static void main(String[] args) {
-        
+        byte a =127;
     }
 }
